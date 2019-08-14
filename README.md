@@ -6,4 +6,4 @@ To arrive at our conclusions we employ different statistical methods including:
 3) fitting a logistical regression model to see if there is a significant difference in conversion based on which page a customer receives.
 
 # License
-The contents of this repository are covered under the MIT License: https://github.com/jerrycyip/Analyze-AB-Test-Results/blob/master/MIT%20License.txt
+The contents of this repository are covered under the [MIT License](https://github.com/jerrycyip/Analyze-AB-Test-Results/blob/master/MIT%20License.txt)
